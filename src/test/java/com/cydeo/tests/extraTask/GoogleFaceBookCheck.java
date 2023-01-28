@@ -1,4 +1,4 @@
-package com.cydeo.extraTask;
+package com.cydeo.tests.extraTask;
 
 import com.cydeo.utilities.WebDriverFactory;
 import org.openqa.selenium.WebDriver;

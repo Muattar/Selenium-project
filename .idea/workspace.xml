@@ -4,38 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee9cd2a4-66c5-4207-8b58-fcd25ad418e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/extraTask/GoogleFaceBookCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day01_selenium_intro/BasicNavigations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T1_CydeoVerification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/practice/T1EtsyTitleVerification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/practice/T2BankHeaderVerification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/practice/T3_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/practice/T4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3/T1_getText_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3/T2_locators_getText_getAttribute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3/T3_cssSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3/T4_Xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3/practice/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3/practice/T2_Xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3/practice/T3_xPath_css.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3/practice/T4_Xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4/T1_xPath_cssSelector_practices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4/T2FindElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4/T3_Checkboxes_Radiobuttons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4/T4_StaleElementReferenceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4/practice/T1FindElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week1/Navigations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/WebDriverFactory.java" afterDir="false" />
+    <list default="true" id="ee9cd2a4-66c5-4207-8b58-fcd25ad418e6" name="Changes" comment="added">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/extraTask/FaceBookVerify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week2/LocatorPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week2/note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/shortTasks/P00_SeleniumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/shortTasks/P01_BasicNavigations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/shortTasks/P02_Close_Quite_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/shortTasks/P12_FindElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day01_selenium_intro/SeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day01_selenium_intro/SeleniumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cydeo/tests/day01_selenium_intro/SeleniumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/tests/day01_selenium_intro/SeleniumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/extraTask/GoogleFaceBookCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/extraTask/GoogleFaceBookCheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,13 +64,13 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.GoogleFaceBookCheck">
-    <configuration name="GoogleFaceBookCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.extraTask.GoogleFaceBookCheck" />
+  <component name="RunManager" selected="Application.LocatorPractice">
+    <configuration name="FaceBookVerify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.extraTask.FaceBookVerify" />
       <module name="selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.extraTask.*" />
+          <option name="PATTERN" value="com.cydeo.tests.extraTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T1FindElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day4.practice.T1FindElements" />
+    <configuration name="LocatorPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.saturdayReview.week2.LocatorPractice" />
       <module name="selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day4.practice.*" />
+          <option name="PATTERN" value="com.cydeo.tests.saturdayReview.week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T2FindElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day4.T2FindElements" />
+    <configuration name="P01_BasicNavigations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.shortTasks.P01_BasicNavigations" />
       <module name="selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day4.*" />
+          <option name="PATTERN" value="com.cydeo.tests.shortTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3_Checkboxes_Radiobuttons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day4.T3_Checkboxes_Radiobuttons" />
+    <configuration name="P02_Close_Quite_Page" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.shortTasks.P02_Close_Quite_Page" />
       <module name="selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day4.*" />
+          <option name="PATTERN" value="com.cydeo.tests.shortTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T4_StaleElementReferenceException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day4.T4_StaleElementReferenceException" />
+    <configuration name="P12_FindElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.shortTasks.P12_FindElements" />
       <module name="selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day4.*" />
+          <option name="PATTERN" value="com.cydeo.tests.shortTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GoogleFaceBookCheck" />
-        <item itemvalue="Application.T4_StaleElementReferenceException" />
-        <item itemvalue="Application.T3_Checkboxes_Radiobuttons" />
-        <item itemvalue="Application.T1FindElements" />
-        <item itemvalue="Application.T2FindElements" />
+        <item itemvalue="Application.LocatorPractice" />
+        <item itemvalue="Application.FaceBookVerify" />
+        <item itemvalue="Application.P02_Close_Quite_Page" />
+        <item itemvalue="Application.P01_BasicNavigations" />
+        <item itemvalue="Application.P12_FindElements" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +149,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674056615372</updated>
     </task>
+    <task id="LOCAL-00001" summary="added">
+      <created>1674761918261</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674761918261</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +169,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added" />
+    <option name="LAST_COMMIT_MESSAGE" value="added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

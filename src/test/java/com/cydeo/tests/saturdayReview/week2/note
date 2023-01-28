@@ -1,0 +1,32 @@
+How many locators?
+
+8 locator:  id, name, className, linkText, partialLinkText, tagName, xpath, and CssSelector
+
+id -> driver.findElement(By.id("login"));
+
+name -> driver.findElement(By.name("login"));
+
+tagName -> driver.findElement(By.tagName("form"));
+
+xPath -> //form[@action='/authenticate']
+          //*=''
+
+CssSelector -> tagName[attribute = 'value'];
+               *[attribute='value']
+               yagName#idValue(# for id attribute)
+               tagName.classValue (. for class attribute)
+
+     form[name='login'];
+     form[id='login'];
+     form[action='/authenticate']
+     form[action='post']
+
+----------------------------------------------------
+-> <label for="username">Username</label> ---> 1
+//label[@for='username']
+//label[@text()='Username']
+//from[@id='login']//label
+
+->CssSelector: label[for='username']
+               form[id='login'] > dive > dive > label
+
