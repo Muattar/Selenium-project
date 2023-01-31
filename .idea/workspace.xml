@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee9cd2a4-66c5-4207-8b58-fcd25ad418e6" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/T1_Stale_Element_Reference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/T2Radio_Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/T3_Radio_Button_Utility_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/T4TestNg_Selenium_IntroPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/T5_drop_Down_intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/TestNgIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/practice/T6DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/practice/T7_dropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/practice/T8_dropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day6_alerts_iframe_windows/T1_T2_T3Alert_Practices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day6_alerts_iframe_windows/T4_Iframe_Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day6_alerts_iframe_windows/T5_Window_Handle_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week2/RegistrationForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week2/RegistrationForm2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="selenium" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -167,8 +157,8 @@
         <item itemvalue="TestNG.T5_Window_Handle_Practice.multiple_windows_test" />
         <item itemvalue="TestNG.T4_Iframe_Task.iframe_Test" />
         <item itemvalue="TestNG.T4_Iframe_Task" />
-        <item itemvalue="TestNG.T1_T2_T3Alert_Practices" />
         <item itemvalue="TestNG.T1_T2_T3Alert_Practices.prompt_Alert_Test3" />
+        <item itemvalue="TestNG.T1_T2_T3Alert_Practices" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674927319653</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added">
+      <created>1675196602495</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675196602495</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
