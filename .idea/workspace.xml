@@ -5,16 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee9cd2a4-66c5-4207-8b58-fcd25ad418e6" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/extraTask/FaceBookVerify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week2/LocatorPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week2/note" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/shortTasks/P00_SeleniumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/shortTasks/P01_BasicNavigations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/shortTasks/P02_Close_Quite_Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/shortTasks/P12_FindElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/T1_Stale_Element_Reference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/T2Radio_Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/T3_Radio_Button_Utility_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/T4TestNg_Selenium_IntroPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/T5_drop_Down_intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/TestNgIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/practice/T6DropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/practice/T7_dropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/practice/T8_dropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day6_alerts_iframe_windows/T1_T2_T3Alert_Practices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day6_alerts_iframe_windows/T4_Iframe_Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day6_alerts_iframe_windows/T5_Window_Handle_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week2/RegistrationForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week2/RegistrationForm2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/extraTask/GoogleFaceBookCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/extraTask/GoogleFaceBookCheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +50,10 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T4.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/T5_drop_Down_intro.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T5.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/cydeo/tests/day6_alerts_iframe_windows/T4_Iframe_Task.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week2/RegistrationForm.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -64,79 +73,102 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.LocatorPractice">
-    <configuration name="FaceBookVerify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.extraTask.FaceBookVerify" />
+  <component name="RunManager" selected="TestNG.T5_Window_Handle_Practice.multiple_windows_test">
+    <configuration name="T1_T2_T3Alert_Practices" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.extraTask.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day6_alerts_iframe_windows.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day6_alerts_iframe_windows" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day6_alerts_iframe_windows.T1_T2_T3Alert_Practices" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocatorPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.saturdayReview.week2.LocatorPractice" />
+    <configuration name="T1_T2_T3Alert_Practices.prompt_Alert_Test3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.saturdayReview.week2.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day6_alerts_iframe_windows.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day6_alerts_iframe_windows" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day6_alerts_iframe_windows.T1_T2_T3Alert_Practices" />
+      <option name="METHOD_NAME" value="prompt_Alert_Test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P01_BasicNavigations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.shortTasks.P01_BasicNavigations" />
+    <configuration name="T4_Iframe_Task" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.shortTasks.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day6_alerts_iframe_windows.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day6_alerts_iframe_windows" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day6_alerts_iframe_windows.T4_Iframe_Task" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P02_Close_Quite_Page" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.shortTasks.P02_Close_Quite_Page" />
+    <configuration name="T4_Iframe_Task.iframe_Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.shortTasks.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day6_alerts_iframe_windows.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day6_alerts_iframe_windows" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day6_alerts_iframe_windows.T4_Iframe_Task" />
+      <option name="METHOD_NAME" value="iframe_Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P12_FindElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.shortTasks.P12_FindElements" />
+    <configuration name="T5_Window_Handle_Practice.multiple_windows_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.shortTasks.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day6_alerts_iframe_windows.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day6_alerts_iframe_windows" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day6_alerts_iframe_windows.T5_Window_Handle_Practice" />
+      <option name="METHOD_NAME" value="multiple_windows_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LocatorPractice" />
-        <item itemvalue="Application.FaceBookVerify" />
-        <item itemvalue="Application.P02_Close_Quite_Page" />
-        <item itemvalue="Application.P01_BasicNavigations" />
-        <item itemvalue="Application.P12_FindElements" />
+        <item itemvalue="TestNG.T5_Window_Handle_Practice.multiple_windows_test" />
+        <item itemvalue="TestNG.T4_Iframe_Task.iframe_Test" />
+        <item itemvalue="TestNG.T4_Iframe_Task" />
+        <item itemvalue="TestNG.T1_T2_T3Alert_Practices" />
+        <item itemvalue="TestNG.T1_T2_T3Alert_Practices.prompt_Alert_Test3" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674761918261</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added">
+      <created>1674927319653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674927319653</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,9 +222,6 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
-      <default-breakpoints>
-        <breakpoint enabled="true" type="java-exception" />
-      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>
