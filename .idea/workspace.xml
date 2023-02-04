@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee9cd2a4-66c5-4207-8b58-fcd25ad418e6" name="Changes" comment="addededd">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/base/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week3/alertPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week3/hard_SoftAssertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week3/iframePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week3/MultipleWindowsHandlePractise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/base/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/extraTask/windows_handlePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/extraTask/windows_handlePractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week3/iframePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week3/CRM_SendingMessage_iframePractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/ConfigurationReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/ConfigurationReader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +44,19 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="Muattar" />
+        <option name="repository" value="Selenium-project" />
+      </RepoCoordinatesHolder>
+    </option>
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/cydeo/tests/day7_webtables_utilities_javafaker/T1_WindowsHandling.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T4.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/com/cydeo/tests/day5TestNg_Dropdown/T5_drop_Down_intro.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_getText_getAttribute/T5.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/com/cydeo/tests/day7_webtables_utilities_javafaker/T1_WindowsHandling.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/com/cydeo/tests/day6_alerts_iframe_windows/T4_Iframe_Task.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week2/RegistrationForm.java" root0="SKIP_INSPECTION" />
   </component>
@@ -69,16 +78,56 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="TestNG.alertPractice.prompt_alert_test1">
-    <configuration name="P10_findElementByCssSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.shortTasks.P10_findElementByCssSelector" />
+  <component name="RunManager" selected="TestNG.MultipleWindowsHandlePractise.multiple_Windows_Handle_Test">
+    <configuration name="CRM_SendingMessage_iframePractice" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.shortTasks.*" />
+          <option name="PATTERN" value="com.cydeo.tests.saturdayReview.week3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.saturdayReview.week3" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.saturdayReview.week3.CRM_SendingMessage_iframePractice" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CRM_SendingMessage_iframePractice.sending_message_test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tests.saturdayReview.week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.saturdayReview.week3" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.saturdayReview.week3.CRM_SendingMessage_iframePractice" />
+      <option name="METHOD_NAME" value="sending_message_test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleWindowsHandlePractise.multiple_Windows_Handle_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tests.saturdayReview.week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.saturdayReview.week3" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.saturdayReview.week3.MultipleWindowsHandlePractise" />
+      <option name="METHOD_NAME" value="multiple_Windows_Handle_Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -94,41 +143,6 @@
       <option name="PACKAGE_NAME" value="com.cydeo.tests.saturdayReview.week3" />
       <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.saturdayReview.week3.alertPractice" />
       <option name="METHOD_NAME" value="prompt_alert_test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="hard_SoftAssertion" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="selenium-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.saturdayReview.week3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.tests.saturdayReview.week3" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.saturdayReview.week3.hard_SoftAssertion" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="hard_SoftAssertion.registrationFormPage_hardAssert_test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="selenium-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.saturdayReview.week3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.tests.saturdayReview.week3" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.saturdayReview.week3.hard_SoftAssertion" />
-      <option name="METHOD_NAME" value="registrationFormPage_hardAssert_test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -156,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.MultipleWindowsHandlePractise.multiple_Windows_Handle_Test" />
+        <item itemvalue="TestNG.CRM_SendingMessage_iframePractice" />
+        <item itemvalue="TestNG.CRM_SendingMessage_iframePractice.sending_message_test1" />
         <item itemvalue="TestNG.alertPractice.prompt_alert_test1" />
         <item itemvalue="TestNG.hard_SoftAssertion.registrationFormPage_softAssert_test" />
-        <item itemvalue="TestNG.hard_SoftAssertion.registrationFormPage_hardAssert_test" />
-        <item itemvalue="TestNG.hard_SoftAssertion" />
-        <item itemvalue="Application.P10_findElementByCssSelector" />
       </list>
     </recent_temporary>
   </component>

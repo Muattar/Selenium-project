@@ -1,6 +1,9 @@
 package com.cydeo.tests.extraTask;
 
-public class windows_handlePractice {
+import com.cydeo.tests.base.TestBase;
+import org.testng.annotations.Test;
+
+public class windows_handlePractice extends TestBase {
 
     // TC#3 : Windows handle practice
     // 1. Open browser
@@ -10,5 +13,11 @@ public class windows_handlePractice {
     // 5. Locate and print the message
     // 6. Close the new window
     // 7. Go back to main window
+
+    @Test
+    public void handleTest(){
+        driver.get("https://demoqa.com/browser-windows");
+
+    }
 
 }
