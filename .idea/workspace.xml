@@ -4,26 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee9cd2a4-66c5-4207-8b58-fcd25ad418e6" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day7_webtables_utilities_javafaker/T1_WindowsHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day7_webtables_utilities_javafaker/T2_CRM_LogInScenario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/extraTask/appreciation_message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/extraTask/empty_message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/extraTask/newAcount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/extraTask/windows_handlePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/shortTasks/P03_GettingPageTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/shortTasks/P04_FullScreenMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/shortTasks/P05_findElementById.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/shortTasks/P05_findElementByName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/shortTasks/P06_findElementByClassName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/shortTasks/P07_findElementByTagName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/shortTasks/P08_findElementByLinkText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/shortTasks/P09_findElementPartialLinkText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/shortTasks/P10_findElementByCssSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/BrowserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/CRM_Utilities.java" afterDir="false" />
+    <list default="true" id="ee9cd2a4-66c5-4207-8b58-fcd25ad418e6" name="Changes" comment="addededd">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/base/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week3/alertPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week3/hard_SoftAssertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/saturdayReview/week3/iframePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/ConfigurationReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day7_/dropDown.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,59 +69,7 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.P10_findElementByCssSelector">
-    <configuration name="P05_findElementByName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.shortTasks.P05_findElementByName" />
-      <module name="selenium-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.shortTasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P07_findElementByTagName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.shortTasks.P07_findElementByTagName" />
-      <module name="selenium-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.shortTasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P08_findElementByLinkText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.shortTasks.P08_findElementByLinkText" />
-      <module name="selenium-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.shortTasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P09_findElementPartialLinkText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.shortTasks.P09_findElementPartialLinkText" />
-      <module name="selenium-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.shortTasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.alertPractice.prompt_alert_test1">
     <configuration name="P10_findElementByCssSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.shortTasks.P10_findElementByCssSelector" />
       <module name="selenium-project" />
@@ -148,13 +83,84 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="alertPractice.prompt_alert_test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tests.saturdayReview.week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.saturdayReview.week3" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.saturdayReview.week3.alertPractice" />
+      <option name="METHOD_NAME" value="prompt_alert_test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hard_SoftAssertion" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tests.saturdayReview.week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.saturdayReview.week3" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.saturdayReview.week3.hard_SoftAssertion" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hard_SoftAssertion.registrationFormPage_hardAssert_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tests.saturdayReview.week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.saturdayReview.week3" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.saturdayReview.week3.hard_SoftAssertion" />
+      <option name="METHOD_NAME" value="registrationFormPage_hardAssert_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hard_SoftAssertion.registrationFormPage_softAssert_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tests.saturdayReview.week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.saturdayReview.week3" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.saturdayReview.week3.hard_SoftAssertion" />
+      <option name="METHOD_NAME" value="registrationFormPage_softAssert_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.alertPractice.prompt_alert_test1" />
+        <item itemvalue="TestNG.hard_SoftAssertion.registrationFormPage_softAssert_test" />
+        <item itemvalue="TestNG.hard_SoftAssertion.registrationFormPage_hardAssert_test" />
+        <item itemvalue="TestNG.hard_SoftAssertion" />
         <item itemvalue="Application.P10_findElementByCssSelector" />
-        <item itemvalue="Application.P09_findElementPartialLinkText" />
-        <item itemvalue="Application.P08_findElementByLinkText" />
-        <item itemvalue="Application.P07_findElementByTagName" />
-        <item itemvalue="Application.P05_findElementByName" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675196602495</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="addededd">
+      <created>1675523048414</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675523048414</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,7 +229,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added" />
-    <option name="LAST_COMMIT_MESSAGE" value="added" />
+    <MESSAGE value="addededd" />
+    <option name="LAST_COMMIT_MESSAGE" value="addededd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
